@@ -15,6 +15,11 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ## Procedure :
 
 ```
+Name : Infant Vijay.A
+reg no: 212225240052
+slot:T1-I5
+
+
 # Getting Inputs
 ArrivalTime = int(input("Enter the mean inter arrival time of objects from feeder (in secs) : "))
 ServiceTime = int(input("Enter the mean inter service time of the Lathe Machine (in secs) : "))
