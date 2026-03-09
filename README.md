@@ -46,6 +46,7 @@ else:
 
 
 ## Experiment:
+<img width="623" height="358" alt="440772458-cb648ada-9aba-4c46-b4d4-3b6a1e4236cd" src="https://github.com/user-attachments/assets/c7587af3-b09c-4db1-ab0a-b904fb572257" />
 
 
  
@@ -54,5 +55,10 @@ else:
 
 ## Output :
 
+<img width="742" height="325" alt="440773376-14fd14fd-a968-40b2-aee3-77d8efefcb10" src="https://github.com/user-attachments/assets/47e445bc-fc46-4c01-8fda-73889e53effe" />
+
+
 ## Result :
+
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
